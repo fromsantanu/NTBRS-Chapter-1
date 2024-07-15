@@ -56,6 +56,8 @@ The programs are written on jupiter notebook, You may run the program on Google 
 
 ![Program Output](output.png)
 
+A visual plot showing the state-wise distribution of functional Patient Provider Support Agencies (PPSA) approved and functional in various states as mentioned in the document.
+
 ## Contribution
 
 The reports and programs are written by Santanu Karmakar
